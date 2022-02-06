@@ -1,0 +1,25 @@
+Nb_Modules : 6
+center : 0.0 0.0 0.0
+base_length : 1.0 
+height : 2.0
+rotation : 0.0
+center : 10.0 0.0 0.0
+base_length : 1.5 
+height : 1.0
+rotation : 50.0
+center : 5.0 5.0 0.0
+base_length : 2.0 
+height : 3.0 
+rotation : 180.0
+center : -5.0 -5.0 0.0
+base_length : 2.0
+height : 3.0
+rotation : 120.0
+center : 10.0 5.0 0.0
+base_length : 2.0
+height : 3.0
+rotation : 45.0
+center : 5.0 -5.0 0.0
+base_length : 2.0
+height : 6.0
+rotation : 90.0
